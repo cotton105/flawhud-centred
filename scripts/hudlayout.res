@@ -982,7 +982,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c-55"
-		"ypos"				"c10"
+		"ypos"				"c5"
 		"wide"				"110"
 		"tall"				"20"
 	}
