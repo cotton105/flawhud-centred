@@ -87,10 +87,10 @@
 		"fieldName"			"HudMedicCharge"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"c-55"
-		"ypos"				"r127"
-		"wide"				"150"
-		"tall"				"60"
+		"xpos"				"0"
+		"ypos"				"-100"
+		"wide"				"f0"
+		"tall"				"f0"
 	}
 
 	"HudDemomanCharge"
@@ -99,7 +99,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c-55"
-		"ypos"				"c136"
+		"ypos"				"c18"
 		"zpos"				"1"
 		"wide"				"110"
 		"tall"				"60"
@@ -188,7 +188,7 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c-44"
-		"ypos"					"c120"
+		"ypos"					"c25"
 		"wide"					"150"
 		"tall"  				"100"
 		"visible" 				"1"
@@ -982,7 +982,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c-55"
-		"ypos"				"c124"
+		"ypos"				"c5"
 		"wide"				"110"
 		"tall"				"20"
 	}
